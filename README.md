@@ -3,7 +3,7 @@
 
 ### GOOD MUSIC HEALS THE SOULS.
 
-PWESHMUZIK is a modern, stylish landing page built to showcase high-quality headphones and music technology.  
+PWESHMUZIK is a modern, stylish landing page built to showcase high-quality headphones and music technology. 
 It focuses on premium sound, aesthetics, and user experience with a dark, elegant design theme.
 
 ---
@@ -72,12 +72,12 @@ PWESHMUZIK/
 1. Clone the repository  
    ```bash
    git clone https://github.com/syntaxcoder13/headphone-website.git
-````
+```
 
 2. Open the folder
 
    ```bash
-   cd pweshmuzik
+   cd headphone-website
    ```
 3. Run the project
 
@@ -87,7 +87,7 @@ PWESHMUZIK/
 ---
 
 **Developer:** SYNTAX CODER
-💻 GitHub: [github.com/yourusername](https://github.com/syntaxcoder13)
+💻 GitHub: [github.com/syntaxcoder13](https://github.com/syntaxcoder13)
 
 ---
 
