@@ -93,9 +93,3 @@ PWESHMUZIK/
 
 ### ⭐ If you like this project, give it a star on GitHub!
 
-```
-
----
-
-Would you like me to **add badges, color theme emojis, and deploy instructions for GitHub Pages** (for a more professional look)?
-```
